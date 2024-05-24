@@ -1,3 +1,6 @@
 facebook
 whatsapp
 snapchat
+twitter 
+instagram
+telegram
