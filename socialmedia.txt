@@ -4,3 +4,8 @@ snapchat
 twitter 
 instagram
 telegram
+wechat
+teams
+hangout
+webex
+google meets
